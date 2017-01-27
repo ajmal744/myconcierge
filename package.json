@@ -1,0 +1,31 @@
+{
+  "name": "myconcierge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajmal744/myconcierge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajmal744/myconcierge/issues"
+  },
+  "homepage": "https://github.com/ajmal744/myconcierge#readme",
+  "keywords": [],
+  "devDependencies": {
+    "html-webpack-plugin": "^2.26.0",
+    "raw-loader": "^0.5.1",
+    "ts-loader": "^2.0.0",
+    "tslint": "^4.4.2",
+    "tslint-loader": "^3.3.0",
+    "typescript": "^2.1.5",
+    "typings": "^2.1.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
